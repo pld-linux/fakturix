@@ -1,4 +1,4 @@
-Summary:	fakturiX is software invoicing
+Summary:	fakturiX is software for invoicing
 Summary(pl):	fakturiX jest programem do wystawiania faktur
 Name:		fakturix
 Version:	0.0.3
