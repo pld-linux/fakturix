@@ -1,4 +1,4 @@
-Summary:	fakturiX ____FIX_ME___
+Summary:	fakturiX is software invoicing
 Summary(pl):	fakturiX jest programem do wystawiania faktur
 Name:		fakturix
 Version:	0.0.3
@@ -12,7 +12,7 @@ BuildRequires:	mysql-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
- ____FIX_ME___
+fakturiX is software for issuing invoices
  
 %description -l pl
 fakturiX jest programem do wystawiania faktur
