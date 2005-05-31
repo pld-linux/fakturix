@@ -10,6 +10,8 @@ Source0:	http://dl.sourceforge.net/%{name}/%{name}-%{version}.tar.bz2
 URL:		http://fakturix.sourceforge.net/
 BuildRequires:	libgnomeui-devel >= 2.0
 BuildRequires:	mysql-devel
+BuildRequires:	pkgconfig
+BuildRequires:	popt-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
