@@ -5,13 +5,12 @@ Version:	0.0.3
 Release:	2
 License:	GPL
 Group:		X11/Applications
-Source0:	http://dl.sourceforge.net/%{name}/%{name}-%{version}.tar.bz2
+Source0:	http://dl.sourceforge.net/fakturix/%{name}-%{version}.tar.bz2
 # Source0-md5:	1f4e0e5520f8c07faf68e0ace0424900
 URL:		http://fakturix.sourceforge.net/
 BuildRequires:	libgnomeui-devel >= 2.0
 BuildRequires:	mysql-devel
 BuildRequires:	pkgconfig
-BuildRequires:	popt-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
