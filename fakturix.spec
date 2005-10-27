@@ -2,7 +2,7 @@ Summary:	fakturiX - software for invoicing
 Summary(pl):	fakturiX - program do wystawiania faktur
 Name:		fakturix
 Version:	0.0.3
-Release:	2
+Release:	3
 License:	GPL
 Group:		X11/Applications
 Source0:	http://dl.sourceforge.net/fakturix/%{name}-%{version}.tar.bz2
