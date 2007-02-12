@@ -1,5 +1,5 @@
 Summary:	fakturiX - software for invoicing
-Summary(pl):	fakturiX - program do wystawiania faktur
+Summary(pl.UTF-8):   fakturiX - program do wystawiania faktur
 Name:		fakturix
 Version:	0.0.3
 Release:	4
@@ -16,7 +16,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 fakturiX is software for issuing invoices.
  
-%description -l pl
+%description -l pl.UTF-8
 fakturiX jest programem do wystawiania faktur.
 
 %prep
